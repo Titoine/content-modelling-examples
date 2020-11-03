@@ -7,13 +7,20 @@ You can copy the JSON definition of the types and paste it on your repository (c
 
 ## Homepage
 
-For ecommerce you should typically create a Singleton type for managing the Homepage content. 
+Let's have a look at the rich Made.com homepage. You see it's "made" of nice sections. Grab the JSON below and paste it under the "JSON Editor" tab of a new custom type to see this configuration example in action. 
 
-We took the example of Made.com site
+[Custom Type JSON](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/homepage.json)
 
-Inline-style: 
+Design:
+
 ![Homepage Design Example](https://images.prismic.io/content-modelling-samples/7b3d2481-16cd-43c4-a259-93e599859eae_Screen+Shot+2020-11-03+at+11.38.01.png?auto=compress,format "Homepage Design Example")
 
-We create a singleton custom type "homepage" that contains Slices (prefefined content components or page sections)
+## Product Page
 
-In this simple example we configured 3 
+Let's have a look at the rich Made.com homepage. You see it's "made" of nice sections. Grab the JSON below and paste it under the "JSON Editor" tab of a new custom type to see this configuration example in action. 
+
+[Custom Type JSON](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/homepage.json)
+
+Design:
+
+![Homepage Design Example](https://images.prismic.io/content-modelling-samples/7b3d2481-16cd-43c4-a259-93e599859eae_Screen+Shot+2020-11-03+at+11.38.01.png?auto=compress,format "Homepage Design Example")
