@@ -1,9 +1,9 @@
 # Content Modelling Examples
 Examples and best practices of content modelling in Prismic. Copy and paste the JSON definition of these Prismic Custom Types to see the examples in action.
 
-## Ecommerce
+## Ecommerce Sites
 
-Ecommerce of all sizes are using Prismic to enhance their visitor's experience with rich content. See [here](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/Ecommerce.md) some examples of nice custom types configuration in Prismic for managing content for:
+Eshops of all sizes are using Prismic to enhance their visitor's experience with rich content. Some examples of custom types definition for managing this content in Prismic:
 * [Homepage](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/homepage.json)
 * [Navigation](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/navigation.json)
 * [Landing page](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/landingpage.json)
@@ -12,7 +12,7 @@ Ecommerce of all sizes are using Prismic to enhance their visitor's experience w
 
 ## Marketing Website
 
-Marketing site are now made of Components (sections) that marketing teams want to be able to arrange to create a infinity of lead-gen, landing pages, SEO page to communicate the value of their product. See some examples of configuration for:
+Marketing site are now made of Components (sections) that marketing teams want to be able to arrange to create a infinity of lead-gen, landing pages, SEO page to communicate the value of their product. See some configuration examples for:
 * Homepage
 * Navigation
 * Landing pages
