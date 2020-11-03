@@ -1,4 +1,4 @@
-# Content Modelling Examples for Ecommerce
+# Content Modelling Examples for Marketing Websites
 
 Prismic is a component based headless CMS. It is used by ecommerce sites like EXAMPLE1, EXAMPLE2, EXAMPLE3 to enrich the eshop experience with content.
 
