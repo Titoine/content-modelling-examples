@@ -1,9 +1,20 @@
 To contribute, make a PR with a .md file describing your use case and the JSON files of your custom type examples
 
-Template for the .md file:
+Example of the .md file for your contribution
 
-# Custom type 1
+# Prismic Developer Docs
 
-* Description of the use case 
-* Screenshot
-* Link to the JSON file
+## Docs homepage
+
+JSON: [docs_home.json]()
+
+Description of the use case.
+
+Screenshot: 
+
+https://images.prismic.io/content-modelling-samples/28943ca0-b32e-4c16-b270-5ba9545b0832_Screen+Shot+2020-11-03+at+12.39.28.png
+
+## Framework homepage
+
+JSON: 
+
