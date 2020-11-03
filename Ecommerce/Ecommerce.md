@@ -11,7 +11,8 @@ For ecommerce you should typically create a Singleton type for managing the Home
 
 We took the example of Made.com site
 
-SCREENSHOT
+Inline-style: 
+![Homepage Design Example](https://images.prismic.io/content-modelling-samples/7b3d2481-16cd-43c4-a259-93e599859eae_Screen+Shot+2020-11-03+at+11.38.01.png?auto=compress,format "Homepage Design Example")
 
 We create a singleton custom type "homepage" that contains Slices (prefefined content components or page sections)
 
