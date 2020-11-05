@@ -18,28 +18,32 @@
       }
     },
     "hero_image" : {
-      "type" : "Image",
-      "config" : {
-        "constraint" : {
-          "width" : null,
-          "height" : null
-        },
-        "thumbnails" : [ {
-          "name" : "large",
-          "width" : 1600,
-          "height" : 850
-        }, {
-          "name" : "medium",
-          "width" : 1200,
-          "height" : 638
-        }, {
-          "name" : "small",
-          "width" : 800,
-          "height" : 425
-        } ],
-        "label" : "Hero image"
-      }
-    },
+        "type" : "Image",
+        "config": {
+          "constraint": {
+            "width": null,
+            "height": null
+          },
+          "thumbnails": [
+          {
+              "name": "large",
+              "width": 1600,
+              "height": 850
+              },
+            {
+              "name": "medium",
+              "width": 1200,
+              "height": 638
+            },
+            {
+              "name": "small",
+              "width": 800,
+              "height": 425
+            }
+          ],
+          "label" : "Hero image"
+        }
+      },
     "cta_text" : {
       "type" : "Text",
       "config" : {
