@@ -1,5 +1,5 @@
 # Content Modelling Examples
-Examples and best practices of content modelling in Prismic. Copy and paste the JSON definition of these Prismic Custom Types to see the examples in action.
+Examples and best practices of content modelling in Prismic. Copy and paste the JSON definition of these Custom Types into your Prismic repository to see the examples in action.
 
 ## Ecommerce Website
 Eshops of all sizes are using Prismic to enhance their visitor's experience with rich content. Some examples of custom types definition for managing this content in Prismic:
