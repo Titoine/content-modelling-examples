@@ -14,9 +14,9 @@ Eshops of all sizes are using Prismic to enhance their visitor's experience with
 ## Corporate/Marketing Website
 
 Marketing site are now made of Components (sections) that marketing teams want to be able to arrange to create a infinity of lead-gen, landing pages, SEO page to communicate the value of their product. See some configuration examples for:
-* [Homepage]()
+* Homepage
 * Navigation `coming soon`
-* Landing Page `coming soon`
+* [Landing Page](https://github.com/prismicio/content-modelling-examples/blob/main/Marketing/landingpage.json)
 * Blog Post `coming soon`
 * Blog Author `coming soon`
 * Blog Category `coming soon`
