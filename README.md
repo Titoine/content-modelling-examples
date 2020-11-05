@@ -5,19 +5,19 @@ Examples and best practices of content modelling in Prismic. Copy and paste the 
 
 Eshops of all sizes are using Prismic to enhance their visitor's experience with rich content. Some examples of custom types definition for managing this content in Prismic:
 * [Homepage](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/homepage.json)
-* [Navigation](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/navigation.json)
-* [Product page](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/product.json)
-* [Story](https://github.com/prismicio/content-modelling-examples/blob/main/Ecommerce/story.json)
+* Navigation `coming soon`
+* Product page `coming soon`
+* Story `coming soon`
 
 ## Marketing Website
 
 Marketing site are now made of Components (sections) that marketing teams want to be able to arrange to create a infinity of lead-gen, landing pages, SEO page to communicate the value of their product. See some configuration examples for:
 * [Homepage]()
-* [Navigation]()
-* [Landing Page]()
-* [Blog Post]()
-* [Blog Author]()
-* [Blog Category]()
+* Navigation `coming soon`
+* Landing Page `coming soon`
+* Blog Post `coming soon`
+* Blog Author `coming soon`
+* Blog Category `coming soon`
 
 ## Media Website
 
