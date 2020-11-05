@@ -23,19 +23,19 @@ Marketing site are now made of Components (sections) that marketing teams want t
 ## News/Media Website
 
 Telling inspiring stories online require more than Paragraph Text and Images. In this example, see how to configure your custom types in Prismic for managing rich content for a modern editorial experience:
-* [Article]()
-* [Author]()
-* [Category]()
+* Article `coming soon`
+* Author `coming soon`
+* Category `coming soon`
 
 ## Blog
 
-* [Homepage]()
-* [Blog Post]()
-* [Author Page]()
+* Homepage `coming soon`
+* Blog Post `coming soon`
+* Author Page `coming soon`
 
 
 ## Documentation Site, Help/Ressource Center
 
-Communicating knowledge about your product or topics involves components. Here are some examples:
-* [API Reference]()
-* [Multi-steps Tutorial]()
+Communicating knowledge about a technical product involves straigtforward and structured content components. Here are some examples:
+* API Reference  `coming soon`
+* Multi-steps Tutorial `coming soon`
